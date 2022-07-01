@@ -1,4 +1,5 @@
 <h1>DAA</h1>
 <strong>__________________________________</strong>
-Design and Analysis of Algorithms
-PCS - 409 (LAB WORK)
+<h2>Design and Analysis of Algorithms</h2>
+
+<h1>PCS - 409 (LAB WORK)</h1>
